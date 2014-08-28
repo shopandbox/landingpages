@@ -1,0 +1,13 @@
+$button_color: #A00201;  
+
+@import '../shared.scss'; 
+
+a.button{
+	
+	float:right;
+	margin:303px 15px 0 0; 
+	@media screen and (max-width: 1055px) {
+    	margin: 227px 15px 0 0;
+	}
+}
+.black_btn{color:#fff;background-color: black}

@@ -1,0 +1,21 @@
+$button_color: #5b164c;  
+
+@import '../../shared.scss'; 
+
+.cat_sub{
+	margin:20px auto; 
+	font-size: 2em;
+	font-weight: bold;
+	margin-bottom:0; 
+	color:$button_color; 
+	border-bottom: 1px solid #e2e2e2;
+	border-top: 1px solid #e2e2e2;
+	background-color:#FCFCFC; 
+}
+.item_name{
+	height: 58px;
+}
+
+#custom_message .bold{margin: 0 18px 41px 18px;}
+#container__content #custom_message{height:219px}
+//#container__content__item__container{max-width: 1180px;}
