@@ -429,7 +429,7 @@ h3 {
   text-align: center;
   position: fixed;
   right: 23px;
-  top: 37px;
+  top: 77px;
   z-index: 10;
   background-color: #fff;
   box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.5);
@@ -483,7 +483,7 @@ h3 {
   margin-left: 10px; }
 
 #container__header__inner__banner .small_h1 {
-  font-size: 35px;
+  font-size: 28px;
   margin: 0; }
 
 #step_1 img:hover {
